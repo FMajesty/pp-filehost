@@ -1,4 +1,4 @@
-# pp-imghost
+# pp-filehost
 
 ## Example config for ShareX:
 URL: http://www.domain.com/
