@@ -1,4 +1,4 @@
-# pp-filehost
+# pp-filehub
 ![Example](https://gaypics.hiimflux.ga/22.17.45-17.03.19.png)
 
 ### Example config for ShareX:
